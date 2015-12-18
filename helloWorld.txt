@@ -1,8 +1,0 @@
-
-print (“hello world”);
-print (“hello everyone);
-print (“Hello”);
-print (“Hello my dear friend”);
-print (“kak dela”);
-print (“hello everyone);
-print (“Hello”);
